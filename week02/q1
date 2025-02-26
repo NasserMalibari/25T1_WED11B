@@ -1,0 +1,1 @@
+sed -E  's/(([A-Z] )+)([A-Z][a-z]+)/\3 \1/'      q1.txt |   sort -k1

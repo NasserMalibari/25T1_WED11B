@@ -1,0 +1,17 @@
+grep
+sort
+uniq
+tr
+cut
+head
+tail
+----
+sed
+----
+join
+find
+paste
+
+
+-----
+awk
